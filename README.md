@@ -1,10 +1,4 @@
-***
-**
-*
-  Metodos de testeo en Node.Js
+Metodos de testeo en Node.Js 
+=================
 
-  Icluye ES5 y ES6.
-
-*
-**
-***
+<h3> Icluye ES5 y ES6 </h3>
